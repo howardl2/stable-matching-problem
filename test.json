@@ -1,0 +1,12 @@
+{
+  "group1": {
+    "John": ["Mary", "Jane", "Tina"],
+    "Joe": ["Mary", "Tina", "Jane"],
+    "James": ["Tina", "Mary", "Jane"]
+  },
+  "group2": {
+    "Mary": ["John", "Joe", "James"],
+    "Jane": ["Joe", "James", "John"],
+    "Tina": ["John", "James", "Joe"]
+  }
+}
